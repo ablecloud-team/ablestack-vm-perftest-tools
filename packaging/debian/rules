@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+# This file defines how to build the Debian package.
+# Using debhelper to handle most of the steps.
+
+%:
+	dh $@

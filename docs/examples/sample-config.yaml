@@ -1,0 +1,7 @@
+mount_point: "/mnt/testdisk"
+channel_count: 4
+max_storage_mb: 20000
+log_interval_sec: 10
+file_size_gb_per_hour: 2.6
+block_size_kb: 512
+file_duration_sec: 3600
